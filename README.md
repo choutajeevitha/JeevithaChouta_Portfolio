@@ -34,7 +34,7 @@ Repository containing data science projects completed by me while studying MSc i
 
 ## Simulation & Visualisatio (Tableau, D3)
   1. Web App using D3 for Covid Data Visualisation
-  2. [Tableau] (https://public.tableau.com/profile/jeevitha7731#!/)
+  2. Tableau (https://public.tableau.com/profile/jeevitha7731#!/)
 
 ## DataWarehousing
   1. Normalisation
