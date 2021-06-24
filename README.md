@@ -3,7 +3,7 @@
 
 Repository containing data science projects completed by me while studying MSc in Data Sceience, self learning, and as a hobby.
 
-**Contents
+** Contents
 
 ## Machine Learning
   1. Applying Machine Learning to Financial Markets (Stock Price prediction)
@@ -11,11 +11,12 @@ Repository containing data science projects completed by me while studying MSc i
   3. Decision Tree
   
 ## Statistics
-  1. Exploratory Analysis
+  1. Exploratory Data Analysis
   2. Probability Distribution
   3. Sampling
-  4. Liner Regreesion
-  5. Multiple Liner Regression
+  4. Hypothesis Testing
+  5. Liner Regreesion
+  6. Multiple Liner Regression
 
 ## Big Data
   1. Mongo DB
