@@ -3,7 +3,7 @@
 
 Repository containing data science projects completed by me while studying MSc in Data Sceience, self learning, and as a hobby.
 
-**Contents
+## Contents
 
 ## Machine Learning
   1. Applying Machine Learning to Financial Markets (Stock Price prediction)
