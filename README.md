@@ -29,7 +29,7 @@ Repository containing data science projects completed by me while studying MSc i
   2. Image processing
 
 ## Computer Vision
-  1. Sehmentation
+  1. Segmentation
   2. Objection detection
 
 ## Simulation & Visualisatio (Tableau, D3)
