@@ -42,5 +42,8 @@ Repository containing data science projects completed by me while studying MSc i
 
 ## Computer Programming using Python
 
-
+# Software Engineering Portfolio
+  1. SQL Server
+  2. C#.Net, MVP, Rest APIs, Windows Services, VB/ASP
+  3. Jenkins, Octopus
 
