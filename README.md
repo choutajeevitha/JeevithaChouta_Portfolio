@@ -1,2 +1,45 @@
 # JeevithaChouta_Portfolio
-Data Science Portfolio
+# Data Science Portfolio
+
+Repository containing data science projects completed by me while studying MSc in Data Sceience, self learning, and as a hobby.
+
+**Contents
+
+## Machine Learning
+  1. Applying Machine Learning to Financial Markets (Stock Price prediction)
+  2. Q-Learning
+  3. Decision Tree
+  
+## Statistics
+  1. Exploratory Analysis
+  2. Probability Distribution
+  3. Sampling
+  4. Liner Regreesion
+  5. Multiple Liner Regression
+
+## Big Data
+  1. Mongo DB
+  2. Apache Spark
+  3. Apache Scoop
+  4. Hive
+
+## Data Mining
+  1. Natural Language Procession (NLP)
+  2. Image processing
+
+## Computer Vision
+  1. Sehmentation
+  2. Objection detection
+
+## Simulation & Visualisatio (Tableau, D3)
+  1. Web App using D3 for Covid Data Visualisation
+  2. [Tableau] (https://public.tableau.com/profile/jeevitha7731#!/)
+
+## DataWarehousing
+  1. Normalisation
+  2. Datawarehousing
+
+## Computer Programming using Python
+
+
+
