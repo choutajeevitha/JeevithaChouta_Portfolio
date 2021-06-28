@@ -2,6 +2,8 @@
 # Data Science Portfolio
 
 Repository containing data science projects completed by me while studying MSc in Data Sceience, self learning, and as a hobby.
+https://github.com/choutajeevitha/datascience
+
 
 ## Contents
 
