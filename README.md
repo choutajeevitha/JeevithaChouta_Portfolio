@@ -36,7 +36,7 @@ https://github.com/choutajeevitha/datascience
 ## Computer Vision 
 (https://github.com/choutajeevitha/datascience/tree/main/ComputerVision)
   1. Segmentation
-  2. Objection detection
+  2. Object detection
 
 ## Simulation & Visualisatio (Tableau, D3)
   1. Web App using D3 for Covid Data Visualisation (https://github.com/choutajeevitha/datascience/tree/main/Simulation%26Visualisation)
