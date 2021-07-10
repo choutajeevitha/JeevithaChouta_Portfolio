@@ -22,7 +22,8 @@ https://github.com/choutajeevitha/datascience
   5. Liner Regreesion
   6. Multiple Liner Regression
 
-## Big Data (https://github.com/choutajeevitha/datascience/tree/main/BigData)
+## Big Data
+(https://github.com/choutajeevitha/datascience/tree/main/BigData)
   1. Mongo DB
   2. Apache Spark
   3. Apache Scoop
